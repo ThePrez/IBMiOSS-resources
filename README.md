@@ -48,6 +48,16 @@ Important resources for anyone interested in open source on IBM i
 | Company (link) | Synopsis      | Quote         |
 | -------------- | ------------- | ------------- |
 | [CRAS](https://www.ibm.com/case-studies/cras-systems-open-source) | Deployed Node-RED to integrate with PLC IoT devices | *"The ability to run the latest open source software alongside unmodified code from the 1980s is surely unheard of on any other platform, and this offers huge value to our business in terms of reducing both ongoing risk and costs in IT."* |
+| [Fibrocrit](https://www.ibm.com/case-studies/fibrocit-systems-furniture-design) |  | *"The fact that the platform supports open source solutions means that we can leverage the very best technology and benefit from the support and development of the open source community while avoiding inhibitive licensing costs."* |
+| [Winsol](https://cms.ibm.com/case-studies/winsol-systems-hardware-manufacturing-digitization) |  | *"Everything – both core business systems and the new open source solutions – runs on IBM i, so reliability is perfect as always. And the faster processes have certainly made our lives easier."* |
+| [Kube-Pak](https://cms.ibm.com/case-studies/kube-pak-systems-gardening-wholesale) |  | *"We can develop in C, PHP, Java – there’s now a full range of open source software on the platform that meshes seamlessly with the core technologies that we’ve been running for decades"* |
+| [Immo Bonehill](https://www.ibm.com/case-studies/immo-bonehill-systems-hardware-website-compliance) |  | *"The website runs using a combination of RPG and open source software. All of it integrates seamlessly with the IBM i operating system."* |
+| [ORIS](https://www.ibm.com/case-studies/ORIS) |  | *"The solution combines tried-and-trusted systems with the latest in open source innovation to create new value."* |
+
+
+
+
+
 
 
 ## Blogs
