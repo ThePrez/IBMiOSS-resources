@@ -38,10 +38,17 @@ Important resources for anyone interested in open source on IBM i
 - [IBM i Customer Stories page](http://ibm.biz/ibmistories)
 
 ### Individual customer stories
-- [SAIB](https://www.ibm.com/it-infrastructure/us-en/resources/power/ibm-i-customer-stories/#/saib/)
+| Company (link) | Synopsis      |
+| -------------- | ------------- |
+| [SAIB](https://www.ibm.com/it-infrastructure/us-en/resources/power/ibm-i-customer-stories/#/saib/) | Using Node.js to integrate with Amazon Alexa |
 
 ## Case Studies
-- [CRAS](https://www.ibm.com/case-studies/cras-systems-open-source)
+- 
+- 
+| Company (link) | Synopsis      | Quote         |
+| -------------- | ------------- | ------------- |
+| [CRAS](https://www.ibm.com/case-studies/cras-systems-open-source) | Deployed Node-RED to integrate with PLC IoT devices | *"The ability to run the latest open source software alongside unmodified code from the 1980s is surely unheard of on any other platform, and this offers huge value to our business in terms of reducing both ongoing risk and costs in IT."* |
+
 
 ## Blogs
 - [Kevin Adler's Blog](https://kadler.io/)
